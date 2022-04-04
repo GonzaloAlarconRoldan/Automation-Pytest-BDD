@@ -1,0 +1,10 @@
+pip
+selenium
+pytest
+behave
+# Allure report installation
+allure-behave
+pytest-html
+webdriver_manager
+# To parallel execution
+pytest-xdist

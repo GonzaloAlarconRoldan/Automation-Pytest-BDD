@@ -1,0 +1,14 @@
+1649093726768	geckodriver	INFO	Listening on 127.0.0.1:63832
+1649093729829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63833" "-no-remote" "-profile" "C:\\Users\\gonza\\AppData\\Local\\Temp\\rust_mozprofileng6UZC"
+1649093730116	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gonza\\AppData\\Local\\Temp\\rust_mozprofileng6UZC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63833/devtools/browser/8ae012d1-defa-44b2-bbb0-063368f5f65f
+1649093731812	Marionette	INFO	Listening on port 63838
+1649093731907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cloud.ibm.com/analytics/build/bluemix-analytics.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://cloud.ibm.com/bFwI5GjyCt_oY/ygtqpPCy-JSI/rM/QaaEhhmNO7/L3tjPw93/HD4iL/n1ZXlY, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649093745439	Marionette	INFO	Stopped listening on port 63838
+JavaScript warning: https://cloud.ibm.com/analytics/build/bluemix-analytics.min.js, line 6: unreachable code after return statement
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
